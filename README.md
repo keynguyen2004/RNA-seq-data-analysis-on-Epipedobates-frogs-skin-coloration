@@ -1,5 +1,7 @@
 # RNA-seq-data-analysis-on-Epipedobates-frogs-skin-coloration
 
+*Note: For the .html file, download it and open on your browser*
+
 ### Project goal
 The genus of poison dart frogs Epipedobates, native to Columbia and Ecuador, are known to sequester alkaloids into their skin, which act as a chemical defense against predators. There are species of Epipedobates that are
 
