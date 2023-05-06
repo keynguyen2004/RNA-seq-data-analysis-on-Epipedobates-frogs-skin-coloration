@@ -1,6 +1,6 @@
 # RNA-seq-data-analysis-on-Epipedobates-frogs-skin-coloration
 
-*Note: For the .html file, download it and open on your browser*
+*Note: For the .html file, download it and open on your browser. For previews, click on the links below under the* **Data Analysis** *section*.
 
 ### Project goal
 The genus of poison dart frogs Epipedobates, native to Columbia and Ecuador, are known to sequester alkaloids into their skin, which act as a chemical defense against predators. There are species of Epipedobates that are
@@ -8,6 +8,7 @@ The genus of poison dart frogs Epipedobates, native to Columbia and Ecuador, are
 1. Aposematic - use bright color to warn predators it's poisonous
 2. Cryptic - dull color
 
+![Frogs Species](https://user-images.githubusercontent.com/110079224/236602232-27b6fd65-7b11-44a3-96ea-b6a34501a268.png)
 
 The project aims to perform a comparative transcriptomics study using RNA-sequencing (Tag-Seq) that focuses on Epipedobates’ gene expression relative to their alkaloid uptake and pinpoint the differentiated genes behind the frogs' aposematism.
 
@@ -25,10 +26,10 @@ Below is the diagram outlining the main steps of the project's workflow
 ### Data analysis
 We'll be focusing on the following four data analysis methods to extract a pattern that differentiated the two groups 
 
-1. Principal Component Analysis (PCA)
-2. Differential Gene Expression (DGE) Analysis
-3. Gene Ontology (GO) Analysis
-4. Discriminant Analysis of Principal Components (DAPC)
+1. Principal Component Analysis (PCA): http://rpubs.com/nguyenminhvinhky/1038493
+2. Differential Gene Expression (DGE) Analysis: http://rpubs.com/nguyenminhvinhky/1038487 
+3. Gene Ontology (GO) Analysis: http://rpubs.com/nguyenminhvinhky/1038490
+4. Discriminant Analysis of Principal Components (DAPC): http://rpubs.com/nguyenminhvinhky/1038492
 
 Using the results produced from these data analyses, we can identify the differentially expressed genes that separate cryptic and aposematic species. 
 
